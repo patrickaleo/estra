@@ -20,6 +20,8 @@ Usage:
 ...
 ```
 
+<img src="https://github.com/patrickaleo/estra/blob/master/AVL_final_render_1%25.jpg" alt="AVL_render" width="512"/>
+Example of the AVL visualization of the synestia.
 ...
 
 Examples of an Estra visualization of the synestia (top) and the Advanced Visualization Lab visualization (bottom)
