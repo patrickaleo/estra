@@ -21,10 +21,10 @@ Usage:
 ```
 
 <img src="https://github.com/patrickaleo/estra/blob/master/AVL_final_render_1%25.jpg" alt="AVL_render" width="512"/>
-Example of the AVL visualization of the synestia.
+Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
 ...
-
-Examples of an Estra visualization of the synestia (top) and the Advanced Visualization Lab visualization (bottom)
+<img src="https://github.com/patrickaleo/estra/blob/master/Estra_final_render_062119.jpg" alt="Estra_render" width="512"/>
+Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in ...  
 
 ## Cite
 
