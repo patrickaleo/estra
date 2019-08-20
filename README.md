@@ -19,7 +19,7 @@ Usage:
 ```
 ...
 ```
-Original synestia SPH dataset in Houdini scene view
+Original synestia SPH dataset in Houdini scene view. 
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/simple_shader_method/synestia_scene_view.png" alt="syn_scene" width="512"/>
 
 Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra_v2.0.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.  
