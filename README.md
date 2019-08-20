@@ -20,7 +20,7 @@ Usage:
 ...
 ```
 Original synestia SPH dataset in Houdini scene view
-<img src="https://github.com/patrickaleo/estra/blob/master/synestia_scene_view.jpg" alt="syn_scene" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/synestia_scene_view.png" alt="syn_scene" width="512"/>
 
 Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
 <img src="https://github.com/patrickaleo/estra/blob/master/AVL_final_render_1%25.jpg" alt="AVL_render" width="512"/>
