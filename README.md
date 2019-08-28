@@ -22,11 +22,13 @@ Usage:
 Original synestia SPH dataset in Houdini scene view. 
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/synestia_viewport.png" alt="syn_scene" width="512"/>
 
-Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra_v2.0.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.  
+Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra_v2.0.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.   
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/Estra_render_082819_100%25.jpg" alt="Estra_render" width="512"/>
 
 Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_render_082619_100%25.jpg" alt="AVL_render" width="512"/>
+
+These two renders maintain the same view and scale as the viewport scene.
  
 
 ## Cite
