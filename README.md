@@ -26,7 +26,7 @@ Example of the Estra visualization of the synestia, using a color mapping inform
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/Estra_render_082819_100%25.jpg" alt="Estra_render" width="512"/>
 
 Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
-<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_render_082619_100%.jpg" alt="AVL_render" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_render_082619_100%25.jpg" alt="AVL_render" width="512"/>
 
 These two renders maintain the same view and scale as the viewport scene.
 
@@ -35,7 +35,7 @@ These two renders maintain the same view and scale as the viewport scene.
 Estra in its current form can be applied to any SPH astronomical dataset, where the data is of emissive gas or dusty material, so the assumptions embedded in the shader hold true. Here is Estra applied to an example [Gadget](https://girder.hub.yt/#item/577c2a7f0d7c6b0001ad7867) disk galaxy, made of gas and dark matter. No clustering results have been run here, but the same Estra shader applied to the Synestia is used here, with the exception of using a different colormap based on internal energy, and not temperature directly (though internal energy is a proxy for temperature).
 
 <img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_scene_view.png" alt="gadget_disk_scene_view" width="512"/>
-<img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_4k_threshold75%25.jpg" alt="gadget_disk" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_4k_threshold75.jpg" alt="gadget_disk" width="512"/>
  
 
 ## Cite
