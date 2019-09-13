@@ -1,5 +1,5 @@
 # Estra
-A pipeline to help automate, inform, and improve astrophysical data visualization using machine learning.
+A pipeline to help automate, inform, and improve cinematic astrophysical data visualization using machine learning.
 
 A proof of concept visualization of the moon-forming synestia simulation from [Lock et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333).
 
