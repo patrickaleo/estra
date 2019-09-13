@@ -35,7 +35,7 @@ These two renders maintain the same view and scale as the viewport scene.
 Estra in its current form can be applied to any SPH astronomical dataset, where the data is of emissive gas or dusty material, so the assumptions embedded in the shader hold true. Here is Estra applied to an example [Gadget](https://girder.hub.yt/#item/577c2a7f0d7c6b0001ad7867) disk galaxy, made of gas and dark matter. No clustering results have been run here, but the same Estra shader applied to the Synestia is used here, with the exception of using a different colormap based on internal energy, and not temperature directly (though internal energy is a proxy for temperature).
 
 <img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_scene_view.png" alt="gadget_disk_scene_view" width="512"/>
-<img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_4k_threshold75.jpg" alt="gadget_disk" height="512" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_4k_threshold75.jpg" alt="gadget_disk" height="368" width="512"/>
  
 
 ## Cite
