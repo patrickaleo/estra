@@ -26,7 +26,7 @@ Example of the Estra visualization of the synestia, using a color mapping inform
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/Estra_render_082819_100%25.jpg" alt="Estra_render" width="512"/>
 
 Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
-<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_render_082619_100%25.jpg" alt="AVL_render" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_render_082619_100%.jpg" alt="AVL_render" width="512"/>
 
 These two renders maintain the same view and scale as the viewport scene.
 
