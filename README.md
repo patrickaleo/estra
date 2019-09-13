@@ -3,7 +3,7 @@ A pipeline to help automate, inform, and improve astrophysical data visualizatio
 
 A proof of concept visualization of the moon-forming synestia simulation from [Lock et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333).
 
-*Authors:* 
+*Author:* 
 [Patrick D. Aleo](https://astro.illinois.edu/directory/profile/paleo2)
 
 ## Description:
@@ -20,13 +20,22 @@ Usage:
 ...
 ```
 Original synestia SPH dataset in Houdini scene view. 
-<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/simple_shader_method/synestia_scene_view.png" alt="syn_scene" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/synestia_viewport.png" alt="syn_scene" width="512"/>
 
-Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra_v2.0.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.  
-<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/Estra_final_render_062119.jpg" alt="Estra_render" width="512"/>
+Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra_v2.0.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.   
+<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/Estra_render_082819_100%25.jpg" alt="Estra_render" width="512"/>
 
 Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
-<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_final_render_1%25.jpg" alt="AVL_render" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/AVL_render_082619_100%25.jpg" alt="AVL_render" width="512"/>
+
+These two renders maintain the same view and scale as the viewport scene.
+
+## Other Use Cases:
+
+Estra in its current form can be applied to any SPH astronomical dataset, where the data is of emissive gas or dusty material, so the assumptions embedded in the shader hold true. Here is Estra applied to an example [Gadget](https://girder.hub.yt/#item/577c2a7f0d7c6b0001ad7867) disk galaxy, made of gas and dark matter. No clustering results have been run here, but the same Estra shader applied to the Synestia is used here, with the exception of using a different colormap based on internal energy, and not temperature directly (though internal energy is a proxy for temperature).
+
+<img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_scene_view.png" alt="gadget_disk_scene_view" width="512"/>
+<img src="https://github.com/patrickaleo/estra/blob/master/gadget_disk_4k_threshold75.jpg" alt="gadget_disk" width="512"/>
  
 
 ## Cite
