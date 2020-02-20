@@ -42,7 +42,7 @@ Estra in its current form can be applied to any SPH astronomical dataset, where 
 
 ```
 @article{Aleo2019,
-  title={Estra: Clustering Methods for Astrophysical Data Visualization in the Moon-forming Synestia Simulation},
+  title={Estra: Clustering Methods for Cinematic Astrophysical Data Visualization in the Moon-forming Synestia Simulation},
   author={{Aleo}, P.~D. and others},
   year={in prep.},
   journal={ApJ},
