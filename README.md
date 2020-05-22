@@ -1,24 +1,18 @@
 # Estra
-A pipeline to help automate, inform, and improve cinematic astrophysical data visualization using machine learning.
+*A pipeline to help automate and inform cinematic astrophysical data visualization using machine learning clustering algorithms.
 
-A proof of concept visualization of the moon-forming synestia simulation from [Lock et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333).
+A proof of concept visualization of the Moon-forming synestia SPH simulation from [Lock et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333).
 
 *Author:* 
 [Patrick D. Aleo](https://astro.illinois.edu/directory/profile/paleo2)
 
 ## Description:
 
-Estra is a python pipeline designed to use clustering and dimensionality-reduction techniques to inform astrophysical data visualization in [Houdini](https://www.sidefx.com/products/houdini/). This allows the user to more easily create their own cinematic visualizations without need for a team of visualization artists. The visualizations can be used for simulation prototyping, public outreach, in publications, etc.
+Scientific visualization tools are currently not optimized to create cinematic, production-quality representations of numerical data for science communication. In our pipeline Estra,w e outline a step-by-step process from a raw simulation into a finished render as a way to teach non-experts in the field of visualization how to achieve production-quality outputs ontheir own. We demonstrate feasibility of using the visual effects software [Houdini](https://www.sidefx.com/products/houdini/) for cinematic astrophysical data visualization, informed by machine learning clustering algorithms. To demonstrate the capabilities of this pipeline, we used a post-impact, thermally-equilibrated Moon-forming synestia from [Lock et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333). Our approach aims to identify "physically interpretable" clusters, where clusters identified in a temperature-entropy phase-space correspond to physically meaningful structures within the simulation data. Clustering results can then be used to highlight these structures (i.e. lower mantle, transition region, supercritical fluid region, isentropic pure-vapor region, and an outer vapor-dome region) by informing the color-mapping process in a simplified Houdini software shading network, where dissimilar phase-space clusters are mapped to different color values for easier visual identification. Cluster information can also be used in 3D position space, via Houdini's scene view, to aid inphysical cluster finding, simulation prototyping, and data exploration. Our clustering-based renders are compared to those created by the Advanced Visualization Lab (AVL) team for the full dome show "Imagine the Moon" as proof of concept.
 
-Setup:
-```
-pip install ...
-```
 
-Usage:
-```
-...
-```
+## Visualizations:
+
 Original synestia SPH dataset in Houdini scene view. 
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/synestia_viewport.png" alt="syn_scene" width="512"/>
 
@@ -41,11 +35,11 @@ Estra in its current form can be applied to any SPH astronomical dataset, where 
 ## Cite
 
 ```
-@article{Aleo2019,
-  title={Estra: Clustering Methods for Cinematic Astrophysical Data Visualization in the Moon-forming Synestia Simulation},
+@article{Aleo2020,
+  title={Clustering-informed Cinematic Astrophysical Data Visualization ofthe Moon-forming Terrestrial Synestia},
   author={{Aleo}, P.~D. and others},
-  year={in prep.},
-  journal={ApJ},
+  year={2020},
+  journal={MNRAS},
 }
 ```
 
