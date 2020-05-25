@@ -16,7 +16,7 @@ Scientific visualization tools are currently not optimized to create cinematic, 
 Original synestia SPH dataset in Houdini scene view. 
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/viewport_screenshots/standard_view_viewport.png" alt="syn_scene" width="512"/>
 
-Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra_v2.0.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.   
+Example of the Estra visualization of the synestia, using a color mapping informed by a Gaussian Mixture Model (GMM) clustering algorithm and a simple, custom shading network detailed in [Estra](https://github.com/patrickaleo/estra/blob/master/Notebooks/Estra.ipynb) and [Results to Render](https://github.com/patrickaleo/estra/blob/master/Notebooks/From_Results_to_Render.ipynb) notebooks.   
 <img src="https://github.com/patrickaleo/estra/blob/master/Notebooks/final_renders/Estra_GMM_5clus.jpg" alt="Estra_render" width="512"/>
 
 Example of the Advanced Visualization Lab (AVL) render of the synestia, created by a team of viz artists.
