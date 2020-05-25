@@ -3,7 +3,7 @@
 
 A proof of concept visualization of the Moon-forming synestia SPH simulation from [Lock et al. (2018)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1002/2017JE005333).
 
-*Author:* 
+*Corresponding Author:* 
 [Patrick D. Aleo](https://astro.illinois.edu/directory/profile/paleo2)
 
 ## Description:
