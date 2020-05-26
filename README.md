@@ -36,7 +36,7 @@ Estra in its current form can be applied to any SPH astronomical dataset, where 
 
 ```
 @article{Aleo2020,
-  title={Clustering-informed Cinematic Astrophysical Data Visualization ofthe Moon-forming Terrestrial Synestia},
+  title={Clustering-informed Cinematic Astrophysical Data Visualization with Application to the Moon-forming Terrestrial Synestia},
   author={{Aleo}, P.~D. and others},
   year={2020},
   journal={MNRAS},
